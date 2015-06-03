@@ -1,0 +1,3 @@
+[submodule "YCSB-BM"]
+	path = YCSB-BM
+	url = https://github.corp.ebay.com/hganeshmurthy/YCSB.git
